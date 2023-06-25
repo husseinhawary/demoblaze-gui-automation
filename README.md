@@ -39,8 +39,8 @@ mvn clean test
 allure serve allure-results
 ```
 
-## Github Actions
-The project integrated with github actions and you can see the runs build from here
+## GitHub Actions
+The project integrated with GitHub actions, and you can see the runs build and rerun again if you want, from here
 
 ```
 https://github.com/husseinhawary/demoblaze-gui-automation/actions
